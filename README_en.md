@@ -3,6 +3,7 @@
 ## Overview
 
 In the alignment training of Large Language Models (LLMs), while Reinforcement Learning from Human Feedback (RLHF) has proven effective, its performance heavily depends on the capabilities of the Reward Model (RM). In complex domains such as mathematics and logical reasoning, acquiring high-quality preference data is costly and laborious. To address this challenge, we introduce CodePMP, a method that leverages publicly available source code data from GitHub to synthesize large-scale, diverse code preference data. This enables scalable preference model pre-training, thereby enhancing the sample efficiency of inference RM fine-tuning and reducing reliance on extensive high-quality human-labeled data.
+<img width="1053" alt="image" src="https://github.com/user-attachments/assets/8d8e0201-5356-4291-8ad0-bc3cf9fee017" />
 
 ## Key Features
 
